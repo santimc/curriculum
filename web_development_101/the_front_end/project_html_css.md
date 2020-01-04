@@ -2817,6 +2817,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Dakitou's Solution (Easy)](https://github.com/Dakitou/google-homepage) - [View in Browser](https://dakitou.github.io/google-homepage/)
 * [Divya's Solution (Easy)](https://quickbrownsloth.github.io/google-homepage/) - [View in Browser](https://quickbrownsloth.github.io/google-homepage/)
 * [codekacode's Solution (Easy)](https://github.com/codekacode/google-home)
+* [SantiMC's Solution (Easy)](https://github.com/santimc/googele-homepage) - [View in Browser](https://htmlpreview.github.io/?https://github.com/santimc/googele-homepage/blob/master/index.html)
 </details>
 
 ### Additional Resources
